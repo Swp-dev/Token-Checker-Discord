@@ -12,7 +12,7 @@ Vui lòng làm theo các bước dưới đây để đảm bảo công cụ ho�
 Mở Terminal (CMD hoặc PowerShell) tại thư mục dự án và chạy lệnh sau để cài đặt các thư viện bổ trợ:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ### Bước 2: Bỏ token vào input/tokens.txt (số token cần check) và lưu
 
