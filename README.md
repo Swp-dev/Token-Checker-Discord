@@ -25,3 +25,4 @@ py token_checker.py
 ---
 ## Lưu ý: code đã được obf để tránh bị skid và đem bán! cân nhắc nếu bạn không tin tôi:(
 # Support: https://discord.gg/qqfnG3NGPZ
+<img width="1727" height="523" alt="image" src="https://github.com/user-attachments/assets/d49c6bcf-8276-47e1-88ae-b0a268930fc3" />
