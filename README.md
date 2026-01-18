@@ -1,6 +1,6 @@
 # DISCORD TOKEN CHECKER 
 
-Công cụ kiểm tra trạng thái Token Discord (Valid, Verified, Locked, Invalid) với tốc độ cao, hỗ trợ đa luồng và giao diện Neon hiện đại.
+Công cụ kiểm tra trạng thái Token Discord (Valid, Verified, Locked, Invalid) với tốc độ cao
 
 ---
 
