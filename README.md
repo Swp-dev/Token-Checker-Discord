@@ -15,7 +15,7 @@ Mở Terminal (CMD hoặc PowerShell) tại thư mục dự án và chạy lện
 pip install -r requirements.txt
 ```
 
-### Bước 2: Bỏ token vào input/tokens.txt (số token cần check) và lưu
+### Bước 2: Bỏ token vào input/tokens.txt (số token cần check) và lưu lại
 
 ### Bước 3: Chạy lệnh sau
 
@@ -23,4 +23,5 @@ pip install -r requirements.txt
 py token_checker.py
 ```
 ---
-# Support: https://discord.gg/xynt
+## Lưu ý: code đã được obf để tránh bị skid và đem bán! cân nhắc nếu bạn không tin tôi:(
+# Support: https://discord.gg/qqfnG3NGPZ
